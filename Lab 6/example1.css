@@ -1,0 +1,32 @@
+body{
+	color: white;
+	background-color: white;	
+}
+
+#wrapper {
+	margin: 0 auto;
+	width: 1500px;
+	background-color: red;
+}
+
+
+#header {
+	height: 80px;
+	width: 1500px;
+	text-align: center;
+	background-color: red;
+}
+
+#leftbody {
+	float: left;
+	height: 700px;
+	width: 1500px;
+	background-color: green;	
+}
+
+#footer {
+	float: left;
+	height: 80px;
+	width: 1500px;
+	background-color: blue;	
+}
